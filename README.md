@@ -1,7 +1,7 @@
 
 # Book Sales App
 
-online book sales page. There is an active admin panel for administrators.
+Online book sales page. There is an active admin panel for administrators.
 
 The project is currently in the draft stage. New version update will coming...
 
